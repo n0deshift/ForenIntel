@@ -12,3 +12,8 @@ logs/
 
 # Runtime state
 .active_case
+
+# OS / Editor
+.DS_Store
+.vscode/
+.idea/
