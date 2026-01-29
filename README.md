@@ -52,5 +52,6 @@ forenintel/
 - Visualization dashboard (web-based)
 
 ## Author
-Mohd Umar –M.Sc Digital Forensics and Information Security
+Mohd Umar –M.Sc DFIS, 
+National Forensic Science Unviversity, Bhopa
 
